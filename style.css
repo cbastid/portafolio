@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(104, 51, 153);
+    font-size: 50px;
+
+}
+.lenguaje {
+    color: blue;
+}
+.email {
+    width: 20px;
+    height: 20px;
+}
+.linkedin {
+    width: 30px;
+    height: 20px;
+}
